@@ -1,5 +1,16 @@
-### Hi there 👋
+## Hi, I'm Vladislav 👋
 
+I am a mathematician with a passion for programming.
+Currently working on antisocial network.
+
+### Technologies that I use ⚡
+- ReactJS
+- ExpressJS
+- MongoDB
+
+### Find me 💬
+- [https://t.me/krowker](Telegram)
+- [https://www.instagram.com/krowker/](Instagram)
 <!--
 **krowker/krowker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
