@@ -1,8 +1,8 @@
 ## Hi, I'm Vladislav 👋
 
-I am a mathematician with a passion for programming.
+👨‍💻I am a mathematician with a passion for programming.
 
-Currently working on antisocial network.
+🔨Currently working on antisocial network.
 
 ### Technologies that I use ⚡
 - ReactJS
@@ -12,6 +12,7 @@ Currently working on antisocial network.
 ### Find me 💬
 - [Telegram](https://t.me/krowker)
 - [Instagram](https://www.instagram.com/krowker/)
+- [YouTube](https://www.youtube.com/channel/UCi593xVKTKDw818SaVe48fQ)
 <!--
 **krowker/krowker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
