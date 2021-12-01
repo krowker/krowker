@@ -9,8 +9,8 @@ Currently working on antisocial network.
 - MongoDB
 
 ### Find me 💬
-- [https://t.me/krowker](Telegram)
-- [https://www.instagram.com/krowker/](Instagram)
+- [Telegram](https://t.me/krowker)
+- [Instagram](https://www.instagram.com/krowker/)
 <!--
 **krowker/krowker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
