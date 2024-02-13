@@ -4,11 +4,10 @@
 
 ### Technologies that I use ⚡
 - ReactJS
+- NextJS
 - ExpressJS
 - MongoDB
 
 ### Find me 💬
 - [Telegram](https://t.me/krowker)
-- [Instagram](https://www.instagram.com/krowker/)
-- [YouTube](https://www.youtube.com/channel/UCi593xVKTKDw818SaVe48fQ)
 
